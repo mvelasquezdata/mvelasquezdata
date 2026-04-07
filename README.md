@@ -27,7 +27,7 @@ I am an Industrial Engineer with a Master’s in Applied Economics, focused on t
 ---
 
 ### 📈 Featured Projects
-* **[Avocado Market Dynamics](https://github.com/mvelasquezdata/avocado-analysis):** Price forecasting and export volume analysis using Python.
+* **[Avocado Market Dynamics](https://github.com/mvelasquezdata/analisis-aguacate-Rionegro-colombia):** Price forecasting and export volume analysis using Python.
 * **[Tomato Price Volatility](https://github.com/mvelasquezdata/tomato-market-analysis):** Seasonal trend analysis and economic impact reporting.
 
 ### 📫 Let's Connect
